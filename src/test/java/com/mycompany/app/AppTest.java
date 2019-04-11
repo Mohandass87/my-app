@@ -15,7 +15,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-     	welcome to mavan;
-	   assertTrue( true );
+	   WelcomeassertTrue( true );
     }
 }
